@@ -4,7 +4,7 @@ import Form from "./components/Form"
 import MovieDisplay from "./components/MovieDisplay"
 import ListDisplay from "./components/ListDisplay"
 export default function App() {
-  const apiKey = "e69dfe9d"
+  const apiKey = "cc774710"
   //state to hold movie data
   const [movie, setMovie] = useState(null)
   //Function to getMovies
